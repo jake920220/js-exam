@@ -7,7 +7,7 @@
  */
 
 
-var x = 15;
+var x = 35;
 let y = "Hello";
 const z = true;
 

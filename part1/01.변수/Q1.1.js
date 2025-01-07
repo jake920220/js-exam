@@ -8,7 +8,7 @@
 
 var x = 35;
 let y = "Hello 123123";
-const z = true;
+const z = false;
 
 // export 를 수정하지 마세요.
 export { x, y, z };

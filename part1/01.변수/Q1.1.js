@@ -7,7 +7,7 @@
  */
 
 var x = 555;
-let y = "Hello 12312332333";
+let y = "Hello 1231222332332333";
 const z = false;
 
 // export 를 수정하지 마세요.

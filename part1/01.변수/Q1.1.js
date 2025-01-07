@@ -6,7 +6,7 @@
  *    - z: boolean (예: true)
  */
 
-var x = 35;
+var x = 555;
 let y = "Hello 1231233333";
 const z = false;
 
